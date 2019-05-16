@@ -1,0 +1,29 @@
+nav h1 a{
+  text-decoration:none;
+}
+nav h1 a:hover{
+  text-decoration:none;
+}
+
+.image-list{
+  max-height: 50px;
+  
+}
+
+.card-block p{
+  margin:0px;
+  padding:0px;
+}
+
+.beercard a:hover{
+  background-color:#eee;
+}
+
+.beercard:hover{
+  background-color:#eee;
+}
+
+.image-details{
+  width:50px;
+  align-self: center;
+}
